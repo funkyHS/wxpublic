@@ -1,8 +1,8 @@
 
 ### 说明
 - 微信公众号网页开发
-- my-server[https://github.com/funkyHS/wxpublic/tree/main/my-server]：个人学习代码
-- original-server[https://github.com/funkyHS/wxpublic/tree/main/original-server]：视频学习参考代码
+- [my-server](./my-server)：个人学习代码
+- [original-server](./original-server)：视频学习参考代码
 
 ### 学习笔记
 - [微信订阅号一](https://funkyhs.github.io/funkyblog/web/wx/wxpublic1.html)
